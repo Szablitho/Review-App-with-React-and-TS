@@ -1,0 +1,27 @@
+.form {
+  background-color: #6233b9;
+  padding: 1rem;
+  width: 20rem;
+}
+.form label {
+  display: block;
+  margin-bottom: 0.05rem;
+  color: #eadbdb;
+  font-weight: bold;
+}
+.form textarea {
+  background-color: #9b8db5;
+  border-radius: 4px;
+  margin: 0;
+  width: 100%;
+  color: #f7dcdc;
+  resize: none;
+}
+.form textarea:focus-visible {
+  border: 1px solid rgb(0, 13, 255);
+  box-shadow: 0 0 1px 1px white;
+}
+.actions {
+  display: flex;
+  /* video 2:03:17 rewrite */
+}
