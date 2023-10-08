@@ -1,6 +1,6 @@
 # Review App
 
-### Live Preview link:
+### Live Preview link: [GitHub Previw](https://szablitho.github.io/Review-App-with-React-and-TS/)
 
 ## Tools
 
