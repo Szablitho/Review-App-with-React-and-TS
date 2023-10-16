@@ -1,5 +1,7 @@
 # Review App
-
+## Important:
+### I realised that React and other dynamic applications are not supported on GitHub. This page will land soon somewhere else. Then, i will link it overhere as preview.
+Link below shows an empty page with only "root" element of React and a few errors in console. Nothing to see for you, my visitors.
 ### Live Preview link: [GitHub Previw](https://szablitho.github.io/Review-App-with-React-and-TS/)
 
 ## Tools
